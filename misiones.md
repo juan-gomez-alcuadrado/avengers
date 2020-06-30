@@ -1,1 +1,2 @@
-investigando al doctor doom.
+* investigando al doctor doom.
+* capturar a red skull.
